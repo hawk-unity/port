@@ -2,7 +2,7 @@ from tkinter import*
 import socket 
 pen = Tk()
 pen.geometry("330x500")
-pen.title("PORT SCANNER - H4WK OFCX")
+pen.title("HACKTİVİZM - H4WK OFCX")
 def tarama():
     s1=str(enturl.get())
     liste=[21,22,23,25,80,139,443,445,3389]
